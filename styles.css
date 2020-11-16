@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+
+}
+.container-fluid{
+  padding:8% 15% 7%;
+}
+.heading{
+  font-family: 'Lobster', cursive;
+  font-size: 7rem;
+  color: #dce90f;
+  text-align: center;
+}
+
+.sub-heading1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 4rem;
+  color: #dce90f;
+  text-align: center;
+}
+.sub-heading2{
+  font-family: 'Indie Flower', cursive;
+  font-size: 4rem;
+  color: #dce90f;
+  text-align: center;
+}
